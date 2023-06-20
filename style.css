@@ -27,4 +27,14 @@
   font-weight: 800;
 }
 
+.map{
+  width:500px;
+  height:600px;
+}
+
+.map iframe{
+  height:100%;
+  width:100%;
+  border:none;
+}
 
